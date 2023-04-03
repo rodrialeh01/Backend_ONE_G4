@@ -10,3 +10,9 @@ Dedicada a aprender Java especialmente en Java 8.
 - [Java Polimorfismo](./Parte%201/Java%20Polimorfismo/)
 - [Java Excepciones](./Parte%201/Java%20Excepciones/)
 - [Java Dominando las Collections](./Parte%201/Java%20Dominando%20las%20Collections/)
+
+## Parte 2
+
+Dedicada a aprender Spring Boot y SQL con MySQL.
+
+- [Introducción a SQL con MySQL](./Parte%202/Introducción%20a%20SQL%20con%20MySQL/README.md)
