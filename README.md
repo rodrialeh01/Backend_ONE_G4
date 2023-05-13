@@ -18,3 +18,4 @@ Dedicada a aprender Spring Boot y SQL con MySQL.
 - [Introducción a SQL con MySQL](./Parte%202/Introducción%20a%20SQL%20con%20MySQL/)
 - [Java y JDBC](./Parte%202/Java%20y%20DBC%20Trabajando%20con%20una%20Base%20de%20Datos/)
 - [Persistencia con JPA: Hibernate](./Parte%202/Persistencia%20con%20JPA%20-%20Hibernate/)
+- [Java y JPA](./Parte%202/Java%20y%20JPA%20-%20Consultas%20avanzadas%2C%20rendimiento%20y%20modelos%20complejos/)
