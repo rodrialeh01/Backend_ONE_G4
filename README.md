@@ -24,3 +24,6 @@ Dedicada a aprender Java con Bases de Datos, Java en la Web y Spring Boot.
 2. Fundamentos de Java en la Web
     - [Java Servlet P1](./Parte%202/Java%20Serverlet%20-%20Fundadmentos%20de%20programaci%C3%B3n%20web%20con%20java/)
     - [Java Servlet P2](./Parte%202/Java%20Serverlet%20-%20autenticaci%C3%B3n%2C%20autorizaci%C3%B3n%20y%20MVC/)
+
+3. API REST con Spring Boot
+    - [Spring Boot 3](./Parte%202/Spring%20Boot%203%20-%20desarrollar%20una%20API%20REST%20en%20java/)
