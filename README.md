@@ -26,4 +26,5 @@ Dedicada a aprender Java con Bases de Datos, Java en la Web y Spring Boot.
     - [Java Servlet P2](./Parte%202/Java%20Serverlet%20-%20autenticaci%C3%B3n%2C%20autorizaci%C3%B3n%20y%20MVC/)
 
 3. API REST con Spring Boot
-    - [Spring Boot 3](./Parte%202/Spring%20Boot%203%20-%20desarrollar%20una%20API%20REST%20en%20java/)
+    - [Spring Boot 3 P1](./Parte%202/Spring%20Boot%203%20-%20desarrollar%20una%20API%20REST%20en%20java/)
+    - [Spring Boot 3 P2](./Parte%202/Spring%20Boot%203%20-%20Aplique%20las%20mejores%20pr%C3%A1cticas%20y%20proteja%20una%20API%20REST/)
